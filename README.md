@@ -1,7 +1,17 @@
-# AUTOMATION
+# Automation Scripts
 
-This is a simple python project for adding chart to the excel spreadsheets.
+This repository contains various automation scripts designed to simplify and speed up repetitive tasks. These scripts demonstrate practical applications of scripting to improve productivity and efficiency.
 
-Following video is referred for this:
+##  Features
 
-https://www.youtube.com/watch?v=_uQrJ0TkZlc
+- Automate common system tasks
+- File management automation
+- Easily customizable to suit different workflows
+
+##  Sample Scripts
+
+- File backups and organization
+- Batch renaming files
+- Automated report generation
+- System maintenance tasks
+
